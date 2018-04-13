@@ -1,9 +1,9 @@
 Source: installer-data-antix
 Section: admin
 Priority: optional
-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
-Build-Depends: debhelper (>=7.0.50~),
-Standards-Version: 3.9.5
+Maintainer: anticapitalista <anticapitalista@riseup.net>
+Build-Depends: debhelper (>= 9.20120115),
+Standards-Version: 3.9.8
 Vcs-Git: git://github.com/MX-Linux/installer-data-antix
 
 Package: installer-data-antix
