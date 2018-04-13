@@ -1,3 +1,9 @@
+installer-data-antix (18.4.4) mx; urgency=medium
+
+  * antiX changes per anticapitalista
+
+ -- dolphinoracle <dolphin@mx>  Fri, 13 Apr 2018 19:24:29 -0400
+
 installer-data-antix (18.4.3) mx; urgency=medium
 
   * added POPULATE_MEDIA_MOUNTPOINTS variable 
