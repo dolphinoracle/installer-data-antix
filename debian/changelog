@@ -1,3 +1,9 @@
+installer-data-antix (18.4.5) mx; urgency=medium
+
+  * updated with new variables for recommended sizes 
+
+ -- dolphinoracle <dolphin@mx>  Fri, 13 Apr 2018 22:50:42 -0400
+
 installer-data-antix (18.4.4) mx; urgency=medium
 
   * antiX changes per anticapitalista
